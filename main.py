@@ -18,7 +18,7 @@
 
 
 import streamlit as st
-import seaborn as sns
+#import seaborn as sns
 import pandas as pd
 
 # st.title("data visualization")
